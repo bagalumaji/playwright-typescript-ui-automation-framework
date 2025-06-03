@@ -1,0 +1,8 @@
+{
+  "waitTimeout": {
+    "minimumTimeout": 10,
+    "defaultTimeout": 15,
+    "maximumTimeout": 45,
+    "veryHighTimeout":60
+  }
+}
